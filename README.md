@@ -1,2 +1,3 @@
-# Clustering-methods-on-different-datasets
+# Comprehensive Clustering Analysis and Validation on Synthetic and Real-World Data
+
 Implemented different clustering methods for synthetic and real-world data and validation using external and internal validation techniques.  * The world indicators dataset compares different countries based on selected attributes * Used K-means and hierarchical clustering using Rstudio * methods to group similar countries together. * Used Internal validation metrics to report the cluster quality * Reported the best clustering solution. Gave a detailed list of all the groups and the countries included within the group. * Generated three different scatter plots of your choice and color the data points according to the group.
