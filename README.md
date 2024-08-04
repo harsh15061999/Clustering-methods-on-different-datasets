@@ -1,5 +1,8 @@
 # Comprehensive Clustering Analysis and Validation on Synthetic and Real-World Data
 
+![Clustering-visualization-for-the-synthetic-data-A-Clusters-generated-by-HDBSCAN-with](https://github.com/user-attachments/assets/f4d3ee52-4b46-408f-94e3-525167ddba3a)
+
+
 This project focuses on performing a comprehensive clustering analysis and validation on both synthetic and real-world datasets. The goal is to identify underlying patterns and group similar data points together effectively, using a variety of clustering algorithms and validation techniques.
 
 Project Objectives
